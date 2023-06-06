@@ -167,7 +167,6 @@ def multi_process_me(file_list):
 
 
 def main(args):
-    #print(args)
     program_mode = args[0]
     print(args)
 
